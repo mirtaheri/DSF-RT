@@ -1,0 +1,22 @@
+Var @default = 0.0
+New Load.121635 bus1=121635 kV=0.4 kW=10 pf=0.95 phases=3 daily=loadshape_121635 conn=wye model=1
+New Load.126563 bus1=126563 kV=0.4 kW=10 pf=0.95 phases=3 daily=loadshape_126563 conn=wye model=1
+New Load.126858 bus1=126858 kV=0.4 kW=20 pf=0.95 phases=3 daily=loadshape_126858 conn=wye model=1
+New Load.126858_R bus1=126858.1 kV=0.23 kW=1.5 pf=0.95 phases=1 daily=loadshape_126858_R conn=wye model=1
+New Load.126858_S bus1=126858.2 kV=0.23 kW=4.5 pf=0.95 phases=1 daily=loadshape_126858_S conn=wye model=1
+New Load.126858_T bus1=126858.3 kV=0.23 kW=6 pf=0.95 phases=1 daily=loadshape_126858_T conn=wye model=1
+New Load.130108 bus1=130108 kV=0.4 kW=30 pf=0.95 phases=3 daily=loadshape_130108 conn=wye model=1
+New Load.130108_S bus1=130108.2 kV=0.23 kW=1.5 pf=0.95 phases=1 daily=loadshape_130108_S conn=wye model=1
+New Load.126468 bus1=126468 kV=0.4 kW=20 pf=0.95 phases=3 daily=loadshape_126468 conn=wye model=1
+New Load.126468_S bus1=126468.2 kV=0.23 kW=3 pf=0.95 phases=1 daily=loadshape_126468_S conn=wye model=1
+New Load.109211_R bus1=109211.1 kV=0.23 kW=3 pf=0.95 phases=1 daily=loadshape_109211_R conn=wye model=1
+New Load.109211_S bus1=109211.2 kV=0.23 kW=6 pf=0.95 phases=1 daily=loadshape_109211_S conn=wye model=1
+New Load.109211_T bus1=109211.3 kV=0.23 kW=3 pf=0.95 phases=1 daily=loadshape_109211_T conn=wye model=1
+New Load.111795 bus1=111795 kV=0.4 kW=6 pf=0.95 phases=3 daily=loadshape_111795 conn=wye model=1
+New Load.111795_T bus1=111795.3 kV=0.23 kW=3 pf=0.95 phases=1 daily=loadshape_111795_T conn=wye model=1
+New Load.111795_S bus1=111795.2 kV=0.23 kW=6 pf=0.95 phases=1 daily=loadshape_111795_S conn=wye model=1
+New Load.111795_R bus1=111795.1 kV=0.23 kW=3 pf=0.95 phases=1 daily=loadshape_111795_R conn=wye model=1
+New Load.116757 bus1=116757 kV=0.4 kW=10 pf=0.95 phases=3 daily=loadshape_116757 conn=wye model=1
+New Load.126674 bus1=126674 kV=0.4 kW=3 pf=0.95 phases=3 daily=loadshape_126674 conn=wye model=1
+New Load.107756 bus1=107756 kV=0.4 kW=5.5 pf=0.95 phases=3 daily=loadshape_107756 conn=wye model=1
+New Load.117766 bus1=117766 kV=0.4 kW=5.5 pf=0.95 phases=3 daily=loadshape_117766 conn=wye model=1

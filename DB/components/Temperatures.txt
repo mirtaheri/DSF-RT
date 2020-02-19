@@ -1,0 +1,2 @@
+Var @default = 0.0
+New TShape.temp_area_001 npts=1440.0 interval=1 temp=[File=T.txt]

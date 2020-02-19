@@ -1,0 +1,2 @@
+Var @default = 0.0
+New Storage.116757 phases=3 bus1=116757 kV=0.4 kWrated=12 kWhrated=25 kWhstored=1.2 PF=0.96 dispmode=follow

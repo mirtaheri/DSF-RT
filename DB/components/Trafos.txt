@@ -1,0 +1,7 @@
+Var @default = 0.0
+New Transformer.TR001 phases=3 windings=2 xhl=0.014
+~ wdg=1 bus=001 kV=66 kVA=1000 conn=delta %r=0.25
+~ wdg=2 bus=002 kV=16 kVA=1000 conn=delta %r=0.25
+New Transformer.TR1 phases=3 windings=2 xhl=0.014
+~ wdg=1 bus=047564 kV=16 kVA=400 conn=delta %r=0.5
+~ wdg=2 bus=225875 kV=0.4 kVA=400 conn=wye %r=0.5

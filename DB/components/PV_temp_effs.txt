@@ -1,0 +1,3 @@
+Var @default = 0.0
+New XYCurve.temp_eff_116757 npts=4 xarray=[0, 25, 35, 40] yarray=[1.2, 1.0, 0.8, 0.6]
+New XYCurve.temp_eff_130108 npts=4 xarray=[0, 25, 35, 40] yarray=[1.2, 1.0, 0.8, 0.6]

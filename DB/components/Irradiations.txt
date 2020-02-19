@@ -1,0 +1,2 @@
+Var @default = 0.0
+New Loadshape.irrad_area_001 npts=1440.0 interval=1 mult=[File=irradiation_forecast.txt]

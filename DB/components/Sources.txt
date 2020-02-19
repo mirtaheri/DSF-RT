@@ -1,0 +1,2 @@
+Var @default = 0.0
+New Circuit.feeder_613032_T01_02 phases=3 bus1=001 Isc3=1000 Isc1=900 basekv=63 pu=1
